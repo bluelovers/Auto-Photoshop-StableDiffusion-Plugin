@@ -198,7 +198,7 @@ use method 3 if you are a Developer/Programmer
 ![install_plugin_1](https://user-images.githubusercontent.com/7842232/217213943-3e2a588d-3ed8-4757-ba69-9846b55a1b36.gif)
 
 
-3) (Don't skip) Install the `Auto-Photoshop-SD` Extension from Automatic1111 extension tab. The extension will allow you to use mask expansion and mask blur, which are necessary for achieving good results when outpainting and inpainting.
+3) (Don't skip) Install the `Auto-Photoshop-StableDiffusion-Plugin` Extension from Automatic1111 extension tab. The extension will allow you to use mask expansion and mask blur, which are necessary for achieving good results when outpainting and inpainting.
  - a) Copy Auto-Photoshop plugin url
 ![copy_githup_url_2](https://user-images.githubusercontent.com/7842232/217213998-367873ce-2c09-4c42-a5fa-0044415e3908.gif)
 
@@ -216,7 +216,7 @@ use method 3 if you are a Developer/Programmer
 1) Download the  [.zip](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin/releases/latest) file
 2) Unzip it in a folder with the same name
 3) move the unzipped folder to the Photoshop Plugin folder
-4) (Don't skip) Install the `Auto-Photoshop-SD` Extension from Automatic1111 extension tab. The extension will allow you to use mask expansion and mask blur, which are necessary for achieving good results when outpainting and inpainting.
+4) (Don't skip) Install the `Auto-Photoshop-StableDiffusion-Plugin` Extension from Automatic1111 extension tab. The extension will allow you to use mask expansion and mask blur, which are necessary for achieving good results when outpainting and inpainting.
  - a) Copy Auto-Photoshop plugin url
 ![image](https://user-images.githubusercontent.com/7842232/223751539-1a3013aa-aa1d-4058-87ae-e8b3fdfc5ec8.png)
 

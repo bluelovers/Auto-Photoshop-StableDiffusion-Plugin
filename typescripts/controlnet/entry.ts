@@ -72,7 +72,7 @@ async function requestControlNetApiVersion() {
     return version
 }
 async function requestControlNetMaxUnits() {
-    const json = await api.requestGet(`${g_sd_url}/controlnet/settings`)
+    const json = await api.requestGet(`${g_sd_url}/controlnet/settings`) || await api.requestGet(`${g_sd_url}/file=config.json`)
 
     const control_net_max_models_num =
         (json?.control_net_unit_count || json?.control_net_max_models_num) ?? 0
